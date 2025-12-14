@@ -89,3 +89,7 @@ Firmware for zmk and bluemicro_ble is called ["Cradio"](https://zmk.dev/docs/har
 * [David Barr](https://github.com/davidphilipbarr)
 * [Ibnu Daru Aji](https://github.com/ibnuda/)
 * [Duccio](https://github.com/duckyb)
+
+## Featured Forks ✨
+
+* [Sweep Gateron](https://github.com/drewlwhitney/Sweep-Gateron) by drewlwhitney: *A Sweep High modded with Gateron-LP KS-33 support.*
